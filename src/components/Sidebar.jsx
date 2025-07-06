@@ -141,29 +141,29 @@ export const pageslinks = [
   //     },
   //   ],
   // },
-  {
-    id: 7,
-    title: "Exam",
-    icon: BookOpenCheck,
-    actions: [
-      {
-        id: 1,
-        title: "Create Exam",
-      },
-      {
-        id: 2,
-        title: "Manage Exam",
-      },
-      {
-        id: 3,
-        title: "Exam Results",
-      },
-      {
-        id: 4,
-        title: "Exam Setup",
-      },
-    ],
-  },
+  // {
+  //   id: 7,
+  //   title: "Exam",
+  //   icon: BookOpenCheck,
+  //   actions: [
+  //     {
+  //       id: 1,
+  //       title: "Create Exam",
+  //     },
+  //     {
+  //       id: 2,
+  //       title: "Manage Exam",
+  //     },
+  //     {
+  //       id: 3,
+  //       title: "Exam Results",
+  //     },
+  //     {
+  //       id: 4,
+  //       title: "Exam Setup",
+  //     },
+  //   ],
+  // },
   {
     id: 8,
     title: "Communicate",
